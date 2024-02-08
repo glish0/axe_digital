@@ -2,7 +2,7 @@ import React from 'react';
 import Feature from './Feature';
 
 const AxeService = () => (
-  <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
+  <div className="gpt3__whatgpt3 mx-24 my-16" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
       <Feature title="AXE DIGITAL" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
     </div>
