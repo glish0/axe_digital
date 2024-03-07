@@ -9,7 +9,7 @@ import Article from './Article';
 
 
 const Blog = () => (
-  <div className="gpt3__blog section__padding" id="blog">
+  <div className="gpt3__blog section__padding" id="features">
     <div className="gpt3__blog-heading">
       <h1 className="gradient__text">Quelques unes de <br />nos réalisations </h1>
     </div>

@@ -17,7 +17,7 @@ const Navbar = () => {
 <path fill-rule="evenodd" clip-rule="evenodd" d="M513.601 61.1294L313.074 61.1294V104.548L504.175 104.548C557.025 104.548 599.868 147.392 599.868 200.241C599.868 253.091 557.025 295.935 504.175 295.935H313.074V339.925H513.602C590.589 339.925 652.999 277.515 652.999 200.527C652.999 123.54 590.589 61.1294 513.601 61.1294Z" fill="white"/>
 </svg>
         </div>
-        <div className="gpt3__navbar-links_container">
+        <div className="gpt3__navbar-links_container border px-10 py-[10px] border-[#21568B] bg-[#4E7195]/20 rounded-full">
           <p><a href="#home">Accueil</a></p>
           <p><a href="#wgpt3">Nos services</a></p>
           <p><a href="#features">A propos de nous</a></p>
